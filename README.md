@@ -3,16 +3,16 @@
 A React todo list application for practicing development using Typescript.
 This project is the first one of the RocketSeat ignite course. :rocket:
 
-## 🛠️ Installation
+## 🛠️ Installation and execution
 
 Linux:
 ```
-yarn dev
+yarn install && yarn dev
 ```
 or
 
 ```
-npm run dev
+npm i && npm run dev
 ```
 
 ## 📝 Testing
